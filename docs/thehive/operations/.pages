@@ -1,5 +1,5 @@
 nav:
-  - 'Howto update': update.md
+  - 'How to update': update.md
   - 'Migration from TheHive 3.x': migration.md
   - 'Backup & restore': backup-restore.md
   - 'Configure HTTPS': https.md
